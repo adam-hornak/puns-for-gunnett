@@ -10,3 +10,62 @@ There are 2 truly difficult problems in Computer Science.
 1: Cache invalidation
 2: Off by one errors
 -----
+Knock, knock.
+(Who’s there?)
+Recursion.
+(Recursion who?)
+Knock Knock…
+-----
+Why do computer scientists make bad arborists?
+Because they always plant their trees upside down.
+-----
+A computer science student was writing a note to his crush before the lecture. The student next to him grabbed the note.
+The first student tried to grab it back. “You can’t see that, it’s private!”
+The second student protested, “But we’re in the same class.”
+-----
+Why do computer scientists always confuse Christmas and Halloween?
+Its cause DEC 25 = OCT 31.
+-----
+A young computer science student is on the phone with his father.
+His father says, “So how have your classes been going?”
+The son replies, “Not bad. I did really well on my test on hexadecimal today! It was only worth fifteen points, but I’m still happy about it.”
+“Oh yeah? What grade did you get?”
+“An F!”
+-----
+Why is it surprisingly easy to get a job at the zoo as a computer scientist?
+Probably because one is fluent in Python.
+-----
+A Computer Science major walks into an English class.
+The Professor says “Welcome to English 101.”
+The student panics.
+“What’s wrong?” asks the Professor.
+“I missed the first 4 English classes.”
+-----
+What do you call someone who double majors in English and Computer Science?
+A pro-grammar!
+-----
+One day, a mechanical engineer, electrical engineer, chemical engineer, and computer engineer were driving down the street in the same car when it broke down.
+The mechanical engineer said, “I think a rod broke.”
+The chemical engineer said, “The way it sputtered at the end, I think it’s not getting enough gas.”
+The electrical engineer said, “I think there was a spark and something’s wrong with the electrical system.”
+All three turned to the computer engineer and said, “What do you think?”
+The computer engineer said, “I think we should all get out and then get back in.”
+-----
+What do you call a ghost in computer science?
+Boo-lean.
+-----
+Why is it called “Computer Science” and not “Computer Engineering”?
+Because you’re performing an experiment every time you try to run my program.
+-----
+Why was the new band '1023 MB' extremely sad? Since their formation, they haven't had a gig yet.
+-----
+When a computer was seen robbing a bank, what did the eyewitness report to the police? "It went data way!"
+-----
+Why are humans known to be extremely afraid of computers? Probably, because they byte.
+-----
+Why do Java programmers wear glasses? They can't C#.
+-----
+What kind of money do computer scientists use? Cache.
+-----
+Why was the computer scientist angry when the student cracked a lame computer joke? He did not like it one bit.
+-----
