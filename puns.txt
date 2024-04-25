@@ -1,0 +1,7 @@
+// Declare constant war
+const war;
+
+// becasue war ... war never changes
+-----
+$arr = array('hip', 'hip')  // 'hip', 'hip' array
+-----
